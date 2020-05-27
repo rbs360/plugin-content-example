@@ -1,4 +1,4 @@
 # plugin-content-example
-Plugin type "content" (another)
+Content plugin example
 
 Documentation: https://developers.rbs360.ru/razrabotka-plaginov/
